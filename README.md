@@ -1,2 +1,2 @@
-# shopping_trends
+# Shopping_trends
 This repository includes the Data Analysis of shopping trends
